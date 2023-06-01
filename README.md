@@ -7,6 +7,7 @@ Experiencing with weekly visualisations in the building I live, showed that 30% 
 
 ### Goal(s)
 Implement a low cost sensor which track the gas consumption on the gas meter. Such meters have different options for measuring consumption, from a luminicent digit to connectors to a internal bus. Alternatively a LoRaWAN-ready add-on such as the [Cyble 5](https://www.itron.com/lam/solutions/product-catalog/cyble-5) could be used. They cost CHF ~100, but not sure what LoRaWAN they support.
+
 <img src="/images/gasmeter.jpg" width="600" />
 
 
