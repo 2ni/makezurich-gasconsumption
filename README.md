@@ -13,10 +13,20 @@ Implement a low cost sensor which track the gas consumption on the gas meter. Su
 
 The sensor could send the current consumption to a server. As consumption heavily depends on the weather and temperature it would be wise to also track weather data from the region.
 
-A funny and playful visualisation would help the residents to save CO2 and money. Data could also be compared between houses, a very interesting data set for the city, to prioritize and stear the replacement of such heating in the city. If we know the number of appartments or total living space, a map could show which houses are well isolated and which ones would need some adjustments.
+A funny and playful visualisation would help the residents to save CO2 and money.
+
+Data could also be compared between houses, a very interesting data set for the city, to prioritize and stear the replacement of such heating in the city. If we know the number of appartments or total living space, a map could show which houses are well isolated and which ones would need some adjustments.
+
+<img src="/images/zh.png" width="600" />
 
 Thinking further the consumption could also be estimated for the future depending on weather forecast.
 
 ### Some data
 I live in an (old) house with 3 residential appartments and 2 offices. Last winter we roughly consumed 13 tons of CO2 or 4000m3 of gas! For a certain period of time 2 parties where well motivated, which showed a reduction of 35% compared to last year. Later on, only one party was palying the game seriously, which still led to a reduction of 10%.
+
 <img src="/images/gasconsumption-q4-2022.png" width="600" />
+
+
+### Resources
+- [Application note](https://www.st.com/resource/en/application_note/an4636-demonstration-of-lc-sensor-for-gas-or-water-metering-based-on-stm32l073zeval-and-stm32l476rgnucleo-boards-stmicroelectronics.pdf) from STMicroelectronics on how to build a inductive sensor to measure gas consumption
+- [commercial prodcut](https://www.neovac.ch/verbrauch-fairer-machen) aiming to make the consumption fair
