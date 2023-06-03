@@ -6,16 +6,16 @@ Also you usually get a feedback of your consumption once a year, with the annual
 Experiencing with weekly visualisations in the building I live, showed that 30% would easily possible if everyone would take their part.
 
 ### Goal(s)
-Implement a low cost sensor which track the gas consumption on the gas meter. Such meters have different options for measuring consumption, from a luminicent digit to connectors to a internal bus. Alternatively a LoRaWAN-ready add-on such as the [Cyble 5](https://www.itron.com/lam/solutions/product-catalog/cyble-5) could be used. They cost CHF ~100, but not sure what LoRaWAN they support.
+Implement a low cost sensor which tracks the gas consumption from the gas meter. Such meters have different options for measuring consumption, from a luminicent digit to connectors to an internal bus system. Alternatively a LoRaWAN-ready add-on such as the [Cyble 5](https://www.itron.com/lam/solutions/product-catalog/cyble-5) could be used. They cost CHF ~100, but not sure what LoRaWAN they support.
 
 <img src="/images/gasmeter.jpg" width="600" />
 
 
-The sensor could send the current consumption to a server. As consumption heavily depends on the weather and temperature it would be wise to also track weather data from the region.
+The sensor would send the current consumption to a server, where further analysis and visualisation can be done. As consumption heavily depends on the weather and temperature it would be wise to also track weather data from the region.
 
-A funny and playful visualisation would help the residents to save CO2 and money.
+A funny and playful visualisation would help the residents from the house to save CO2 and money.
 
-Data could also be compared between houses, a very interesting data set for the city, to prioritize and stear the replacement of such heating in the city. If we know the number of appartments or total living space, a map could show which houses are well isolated and which ones would need some adjustments.
+Data could also be compared between houses on a larger scale, a very interesting data set for the city, to prioritize and stear the replacement of such heating in the city. If we know the number of appartments or total living space, a map could show which houses are well isolated and which ones would eg need some adjustments, or would be replaced first to have the biggest impact.
 
 <img src="/images/zh.png" width="600" />
 
