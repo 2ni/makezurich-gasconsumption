@@ -19,7 +19,7 @@ df.sample(3).T
 df_selected = df[['Eidgenoessischer_Gebaeudeidentifikator', 'Gebaeudestatus_Code', 'Baujahr_des_Gebaeudes', 'E-Gebaeudekoordinate', 'N-Gebaeudekoordinate','Energiebezugsflaeche', 'Anzahl_Geschosse', 'Gebaeudeflaeche']]
 
 # Filter Gebäude which are existing, remove the other ones
-df_selected = df_selected[df_selected['Gebaeudestatus_Code']]
+df_selected = df_selected[df_selected['Gebaeudestatus_Code'] == 1004]
 
 # Define the transform the WGS84 coordinates from the gps sensor to LV95 function
 
