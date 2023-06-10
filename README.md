@@ -31,6 +31,9 @@ I live in an (old) house with 3 residential appartments and 2 offices. Last wint
 
 ### Some ideas
 - use esp32+cam with OCR: https://github.com/jomjol/AI-on-the-edge-device (thx for the idea @Alex)
+- rpi pico classification: https://github.com/code2k13/rpipico_digit_classification
+- https://wiki.seeedstudio.com/Grove-Vision-AI-Module/
+- https://www.housing-stat.ch/de/query/adrtoegid.html
 
 ### Resources
 - [Application note](https://www.st.com/resource/en/application_note/an4636-demonstration-of-lc-sensor-for-gas-or-water-metering-based-on-stm32l073zeval-and-stm32l476rgnucleo-boards-stmicroelectronics.pdf) from STMicroelectronics on how to build a inductive sensor to measure gas consumption
