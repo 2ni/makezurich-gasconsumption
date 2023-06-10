@@ -1,0 +1,5 @@
+pandas
+pyproj
+numpy
+opencv-python
+Tesseract
