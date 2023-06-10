@@ -10,6 +10,8 @@ Implement a low cost sensor which tracks the gas consumption from the gas meter.
 
 <img src="/images/gasmeter.jpg" width="600" />
 
+<img src="/images/gasmeter2.jpg" width="300" />
+
 
 The sensor would send the current consumption to a server, where further analysis and visualisation can be done. As consumption heavily depends on the weather and temperature it would be wise to also track weather data from the region.
 
