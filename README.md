@@ -29,12 +29,10 @@ I live in an (old) house with 3 residential appartments and 2 offices. Last wint
 <img src="/images/gasconsumption-q4-2022.png" width="600" />
 
 
-### Some ideas
+### Useful links
 - use esp32+cam with OCR: https://github.com/jomjol/AI-on-the-edge-device (thx for the idea @Alex)
 - rpi pico classification: https://github.com/code2k13/rpipico_digit_classification
 - https://wiki.seeedstudio.com/Grove-Vision-AI-Module/
 - https://www.housing-stat.ch/de/query/adrtoegid.html
-
-### Resources
 - [Application note](https://www.st.com/resource/en/application_note/an4636-demonstration-of-lc-sensor-for-gas-or-water-metering-based-on-stm32l073zeval-and-stm32l476rgnucleo-boards-stmicroelectronics.pdf) from STMicroelectronics on how to build a inductive sensor to measure gas consumption
-- [commercial prodcut](https://www.neovac.ch/verbrauch-fairer-machen) aiming to make the consumption fair
+- [commercial product](https://www.neovac.ch/verbrauch-fairer-machen) aiming to make the consumption fair
